@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        < img src = "https://img.shields.io/badge/HTML-blue" />
+        <img src="https://img.shields.io/badge/HTML-blue" />
         <img src="https://img.shields.io/badge/CSS-blue" />
         <img src="https://img.shields.io/badge/JavaScript-blue" /> 
         <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
